@@ -2,13 +2,28 @@
   <img width="200" height="200" src="https://cdn.discordapp.com/attachments/795010536365752320/831626144565821470/logo.png">
 </p>
 
-## Irul Theme for VS Code
+<h1 align="center">
+  Irul Theme for VS Code
+</h1>
 
 <p align="center">
-  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/831626145518321734/Screenshot_2021-04-14_at_1.39.03_AM.png">
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/shelcia.irul-theme.svg" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/shelcia.irul-theme.svg" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/shelcia.irul-theme.svg" />
+  </a>
 </p>
+
 <p align="center">
-  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/831626147107438682/Screenshot_2021-04-14_at_1.40.07_AM.png">
+  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/831635555875422268/demo-1.png">
+</p>
+<br/>
+<p align="center">
+  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/831635559285260318/demo-2.png">
 </p>
 
 <hr/>

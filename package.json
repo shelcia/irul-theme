@@ -1,0 +1,21 @@
+{
+    "name": "irul-theme",
+    "displayName": "irul-theme",
+    "description": "Miniaml Dark Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Irul Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Irul Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}

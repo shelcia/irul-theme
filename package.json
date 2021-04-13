@@ -1,21 +1,26 @@
 {
   "name": "irul-theme",
-  "displayName": "irul-theme",
-  "description": "Miniaml Dark Color Theme",
-  "version": "0.0.1",
-  "publisher": "shelcia",
+  "displayName": "Irul theme",
+  "description": "Minimal Dark Color Theme for VS Code",
+  "version": "0.0.2",
+  "publisher": "Shelcia",
   "engines": {
     "vscode": "^1.55.0"
   },
   "author": {
-    "name": "shelcia"
+    "name": "Shelcia"
   },
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#1C6BFF",
+    "theme": "dark"
+  },
+  "icon": "images/logo.png",
   "bugs": {
     "url": "https://github.com/shelcia/irul-theme/issues",
-    "email": "smcbreen@microsoft.com"
+    "email": "shelcia@gmail.com"
   },
   "repository": {
     "type": "git",
@@ -25,7 +30,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Irul Dark Theme",
+        "label": "Irul Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Irul Dark Theme-color-theme.json"
       }

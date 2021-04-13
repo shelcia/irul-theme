@@ -1,21 +1,34 @@
 {
-    "name": "irul-theme",
-    "displayName": "irul-theme",
-    "description": "Miniaml Dark Color Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Irul Dark Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Irul Dark Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "irul-theme",
+  "displayName": "irul-theme",
+  "description": "Miniaml Dark Color Theme",
+  "version": "0.0.1",
+  "publisher": "shelcia",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "author": {
+    "name": "shelcia"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "bugs": {
+    "url": "https://github.com/shelcia/irul-theme/issues",
+    "email": "smcbreen@microsoft.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shelcia/irul-theme.git"
+  },
+  "homepage": "https://github.com/shelcia/irul-theme/blob/main/README.md",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Irul Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Irul Dark Theme-color-theme.json"
+      }
+    ]
+  }
 }

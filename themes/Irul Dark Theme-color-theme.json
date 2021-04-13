@@ -348,9 +348,9 @@
 	  "walkThrough.embeddedEditorBackground": "#171c28",
   
 	  // Git colors
-	  "gitDecoration.modifiedResourceForeground": "#F563DF",
+	  "gitDecoration.modifiedResourceForeground": "#E2E67E",
 	  "gitDecoration.deletedResourceForeground": "#FF5862",
-	  "gitDecoration.untrackedResourceForeground": "#E2E67E",
+	  "gitDecoration.untrackedResourceForeground": "#FFA748",
 	  "gitDecoration.ignoredResourceForeground": "#8695b777",
 	  "gitDecoration.conflictingResourceForeground": "#FF5862",
   

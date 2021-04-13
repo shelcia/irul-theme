@@ -433,7 +433,7 @@
 		  "constant.escape"
 		],
 		"settings": {
-		  "foreground": "#ff7cd6"
+		  "foreground": "#fec249"
 		}
 	  },
 	  {
@@ -456,7 +456,7 @@
 		  "text.html.nunjucks"
 		],
 		"settings": {
-		  "foreground": "#8caeff"
+		  "foreground": "#e4e4e4"
 		}
 	  },
 	  {
@@ -478,7 +478,7 @@
 		  "string.unquoted.filter-pipe"
 		],
 		"settings": {
-		  "foreground": "#ffae57"
+		  "foreground": "#fb80f3"
 		}
 	  },
 	  {
@@ -496,7 +496,7 @@
 		  "variable.other.object"
 		],
 		"settings": {
-		  "foreground": "#5ccfe6"
+		  "foreground": "#e65caf"
 		}
 	  },
 	  {
@@ -510,7 +510,7 @@
 		  "keyword.control.filter"
 		],
 		"settings": {
-		  "foreground": "#77b0ff"
+		  "foreground": "#62d5ff"
 		}
 	  },
 	  {
@@ -532,7 +532,7 @@
 		  "variable.other.object.property"
 		],
 		"settings": {
-		  "foreground": "#a2aabc"
+		  "foreground": "#ffc95d"
 		}
 	  },
 	  {
@@ -551,7 +551,7 @@
 		  "storage.type.attr.nunjucks"
 		],
 		"settings": {
-		  "foreground": "#ffed93"
+		  "foreground": "#b3ff93"
 		}
 	  },
 	  {
@@ -567,7 +567,7 @@
 		  "meta.object-literal.key"
 		],
 		"settings": {
-		  "foreground": "#ffd580"
+		  "foreground": "#ef6b73"
 		}
 	  },
 	  {
@@ -583,7 +583,7 @@
 		  "variable.other.readwrite"
 		],
 		"settings": {
-		  "foreground": "#5ccfe6"
+		  "foreground": "#ddf74d"
 		}
 	  },
 	  {
@@ -637,7 +637,7 @@
 		"name": "Attributes",
 		"scope": ["entity.other.attribute-name"],
 		"settings": {
-		  "foreground": "#ffae57"
+		  "foreground": "#fff157"
 		}
 	  },
 	  {

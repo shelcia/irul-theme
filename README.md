@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "irul-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Installation via VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- Open Extensions sidebar panel in VS Code. View → Extensions
+- Search for Irul Dark Theme
+- Click Install to install it
+- Click Reload to reload the editor
+- Code > Preferences > Color Theme > Irul Dark Theme

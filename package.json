@@ -1,7 +1,7 @@
 {
   "name": "irul-theme",
   "displayName": "Irul Theme",
-  "description": "Dark Minimal Theme for VS Code",
+  "description": "Dark Minimal Theme for VS Code Based on Halcyon",
   "version": "0.0.2",
   "publisher": "Shelcia",
   "engines": {

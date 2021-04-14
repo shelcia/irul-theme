@@ -356,7 +356,7 @@
   
 	  // Settings Editor colors
 	  "settings.headerForeground": "#d7dce2",
-	  "settings.modifiedItemIndicator": "#F563DF",
+	  "settings.modifiedItemIndicator": "#E2E67E",
 	  "settings.dropdownBackground": "#2f3b54",
 	  "settings.dropdownForeground": "#d7dce2",
 	  "settings.dropdownBorder": "#2f3b54",

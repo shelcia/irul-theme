@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://cdn.discordapp.com/attachments/795010536365752320/831626144565821470/logo.png">
+  <img width="200" height="200" src="https://cdn.discordapp.com/attachments/795010536365752320/831881942668279877/IRUL_THEME.png">
 </p>
 
 <h1 align="center">

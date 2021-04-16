@@ -179,12 +179,12 @@
 	  "editorOverviewRuler.wordHighlightForeground": "#8695b7",
 	  "editorOverviewRuler.wordHighlightStrongForeground": "#8695b7",
 	  "editorOverviewRuler.modifiedForeground": "#F563DF",
-	  "editorOverviewRuler.addedForeground": "#E2E67E",
+	  "editorOverviewRuler.addedForeground": "#69DD71",
 	  "editorOverviewRuler.deletedForeground": "#FF5885",
 	  "editorOverviewRuler.errorForeground": "#FF5885",
-	  "editorOverviewRuler.warningForeground": "#90D4FF",
+	  "editorOverviewRuler.warningForeground": "#FFDF58",
 	  "editorOverviewRuler.infoForeground": "#F563DF",
-	  "editorOverviewRuler.bracketMatchForeground": "#6CBDF0",
+	  "editorOverviewRuler.bracketMatchForeground": "#FFDF58",
   
 	  // Errors and warnings
 	  "editorError.foreground": "#FF5885",
@@ -198,8 +198,8 @@
   
 	  // Editor Gutter
 	  "editorGutter.background": "#1d2433",
-	  "editorGutter.modifiedBackground": "#F563DF",
-	  "editorGutter.addedBackground": "#E2E67E",
+	  "editorGutter.modifiedBackground": "#27ABFF",
+	  "editorGutter.addedBackground": "#69DD71",
 	  "editorGutter.deletedBackground": "#FF5862",
   
 	  // Diff Editor colors
@@ -223,8 +223,8 @@
 	  "debugExceptionWidget.border": "#2f3b54",
 	  "editorMarkerNavigation.background": "#2f3b54",
 	  "editorMarkerNavigationError.background": "#FF5862",
-	  "editorMarkerNavigationWarning.background": "#6CBDF0",
-	  "editorMarkerNavigationInfo.background": "#F563DF",
+	  "editorMarkerNavigationWarning.background": "#FFDF58",
+	  "editorMarkerNavigationInfo.background": "#58FFE5",
   
 	  // Peek View colors
 	  "peekView.border": "#6CBDF0",
@@ -250,8 +250,8 @@
 	  "merge.border": "#8695b7",
 	  "merge.commonHeaderBackground": "#2f3b5477",
 	  "merge.commonContentBackground": "#2f3b5455",
-	  "editorOverviewRuler.currentContentForeground": "#F563DF",
-	  "editorOverviewRuler.incomingContentForeground": "#E2E67E",
+	  "editorOverviewRuler.currentContentForeground": "#FF5862",
+	  "editorOverviewRuler.incomingContentForeground": "#69DD71",
 	  "editorOverviewRuler.commonContentForeground": "#2f3b54",
   
 	  // Panel colors
@@ -326,7 +326,7 @@
 	  "terminal.ansiBrightBlack": "#444a5e",
 	  "terminal.ansiBrightMagenta": "#FF5885",
 	  "terminal.ansiBrightRed": "#FF5862",
-	  "terminal.ansiBrightWhite": "#a2aabc",
+	  "terminal.ansiBrightWhite": "#e1e1e1",
 	  "terminal.ansiBrightYellow": "#6CBDF0",
 	  "terminal.ansiCyan": "#F563DF",
 	  "terminal.ansiGreen": "#69DD71",
@@ -348,11 +348,11 @@
 	  "walkThrough.embeddedEditorBackground": "#171c28",
   
 	  // Git colors
-	  "gitDecoration.modifiedResourceForeground": "#E2E67E",
+	  "gitDecoration.modifiedResourceForeground": "#6CBDF0",
 	  "gitDecoration.deletedResourceForeground": "#FF5862",
-	  "gitDecoration.untrackedResourceForeground": "#FFA748",
+	  "gitDecoration.untrackedResourceForeground": "#6CF080",
 	  "gitDecoration.ignoredResourceForeground": "#8695b777",
-	  "gitDecoration.conflictingResourceForeground": "#FF5862",
+	  "gitDecoration.conflictingResourceForeground": "#FFA748",
   
 	  // Settings Editor colors
 	  "settings.headerForeground": "#d7dce2",

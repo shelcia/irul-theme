@@ -16,6 +16,9 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
     <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/shelcia.irul-theme.svg" />
   </a>
+   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+    <img alt="Stars" src="https://img.shields.io/github/stars/shelcia/irul-theme" />
+  </a>
 </p>
 
 <p align="center">

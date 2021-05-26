@@ -7,26 +7,26 @@
 </h1>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
     <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/shelcia.irul-theme.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
     <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/shelcia.irul-theme.svg" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+  <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
     <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/shelcia.irul-theme.svg" />
   </a>
-   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
+   <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
     <img alt="Stars" src="https://img.shields.io/github/stars/shelcia/irul-theme" />
   </a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/831635555875422268/demo-1.png">
+  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/847072803312107530/demo-1.png">
 </p>
 <br/>
 <p align="center">
-  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/831635559285260318/demo-2.png">
+  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/847072802792013824/demo-2.png">
 </p>
 
 <hr/>

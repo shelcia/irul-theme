@@ -25,3 +25,10 @@ All notable changes to the "irul-theme" extension will be documented in this fil
 ### Change
 
 - Terminal colour
+
+## [0.0.4]
+
+### Change
+
+- Introducing Neelam - New Theme varaint
+- Fixed outdated types

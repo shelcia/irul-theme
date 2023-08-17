@@ -2,7 +2,7 @@
   "name": "irul-theme",
   "displayName": "Irul Theme",
   "description": "Dark Minimal Theme for VS Code Based on Halcyon",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "Shelcia",
   "engines": {
     "vscode": "^1.55.0"
@@ -20,7 +20,7 @@
   "icon": "images/logo.png",
   "bugs": {
     "url": "https://github.com/shelcia/irul-theme/issues",
-    "email": "shelcia@gmail.com"
+    "email": "shelcia1999@gmail.com"
   },
   "repository": {
     "type": "git",
@@ -33,6 +33,11 @@
         "label": "Irul Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Irul Dark Theme-color-theme.json"
+      },
+      {
+        "label": "Irul Theme - Neelam",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Irul Dark Theme Neelam-color-theme.json"
       }
     ]
   }

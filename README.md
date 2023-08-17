@@ -1,34 +1,38 @@
-<p align="center">
-  <img width="200" height="200" src="https://cdn.discordapp.com/attachments/795010536365752320/831881942668279877/IRUL_THEME.png">
-</p>
+<div align="center">
+  <img width="200" height="200" src="./images/logo.png"/>
+</div>
 
 <h1 align="center">
   Irul Theme for VS Code
 </h1>
 
-<p align="center">
+<div align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/shelcia.irul-theme.svg" />
+   <img alt="Visual Studio Marketplace Release Date" src="https://img.shields.io/visual-studio-marketplace/release-date/shelcia.irul-theme?style=for-the-badge">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/shelcia.irul-theme.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/shelcia.irul-theme.svg" />
+    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/shelcia.irul-theme?style=for-the-badge">
   </a>
    <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
-    <img alt="Stars" src="https://img.shields.io/github/stars/shelcia/irul-theme" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/shelcia/irul-theme?style=for-the-badge" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/847072803312107530/demo-1.png">
-</p>
+</div>
 <br/>
-<p align="center">
+<div align="center">
   <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/847072802792013824/demo-2.png">
-</p>
-
+</div>
+<br/>
+<div align="center">
+  <img width="100%" src="./images/demo-3.png">
+</div>
+<br/>
+<div align="center">
+  <img width="100%" src="./images/demo-4.png">
+</div>
 <hr/>
 
 ## Installation via VS Code

@@ -32,3 +32,7 @@ All notable changes to the "irul-theme" extension will be documented in this fil
 
 - Introducing Neelam - New Theme varaint
 - Fixed outdated types
+
+## [0.0.4]
+
+- Fixed UX color fixes

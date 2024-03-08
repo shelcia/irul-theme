@@ -19,11 +19,11 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/847072803312107530/demo-1.png">
+  <img width="100%" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/demo-1.png">
 </div>
 <br/>
 <div align="center">
-  <img width="100%" src="https://cdn.discordapp.com/attachments/795010536365752320/847072802792013824/demo-2.png">
+  <img width="100%" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/demo-2.png">
 </div>
 <br/>
 <div align="center">

@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" src="./images/logo.png"/>
+  <img width="200" height="200" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/logo.png "/>
 </div>
 
 <h1 align="center">
@@ -27,11 +27,11 @@
 </div>
 <br/>
 <div align="center">
-  <img width="100%" src="./images/demo-3.png">
+  <img width="100%" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/demo-3.png">
 </div>
 <br/>
 <div align="center">
-  <img width="100%" src="./images/demo-4.png">
+  <img width="100%" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/demo-4.png">
 </div>
 <hr/>
 

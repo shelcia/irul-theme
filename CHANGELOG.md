@@ -30,7 +30,7 @@ All notable changes to the "irul-theme" extension will be documented in this fil
 
 ### Change
 
-- Introducing Neelam - New Theme varaint
+- Introducing Neelam - New Theme variant
 - Fixed outdated types
 
 ## [0.0.5]
@@ -40,3 +40,9 @@ All notable changes to the "irul-theme" extension will be documented in this fil
 ## [0.0.6]
 
 - Fixed Readme.md
+
+## [0.0.7]
+
+### Patch change
+
+- Patched Neelam variant

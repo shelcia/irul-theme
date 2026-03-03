@@ -1,69 +1,171 @@
 <div align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/logo.png "/>
+  <img width="180" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/logo.png"/>
 </div>
 
 <h1 align="center">
-  Irul Theme for VS Code
+  Irul Theme
 </h1>
 
+<p align="center">
+  A deep navy, electric-accent VS Code theme built for long coding sessions.
+  <br/>
+  Designed for clarity across multiple languages.
+</p>
+
 <div align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
-   <img alt="Visual Studio Marketplace Release Date" src="https://img.shields.io/visual-studio-marketplace/release-date/shelcia.irul-theme?style=for-the-badge">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
-    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/shelcia.irul-theme?style=for-the-badge">
-  </a>
-   <a href="https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme">
-    <img alt="Stars" src="https://img.shields.io/github/stars/shelcia/irul-theme?style=for-the-badge" />
-  </a>
+
+[![Marketplace](https://img.shields.io/visual-studio-marketplace/v/shelcia.irul-theme?style=for-the-badge&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/shelcia.irul-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/shelcia.irul-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme)
+
 </div>
+
+---
+
+## ✨ About
+
+**Irul** means _darkness_.  
+**Neelam** represents deep blue.
+
+Irul Theme – Neelam blends a rich navy base with vibrant yet controlled accents to create a theme that feels:
+
+- Calm
+- Modern
+- High contrast
+- Easy on the eyes
+- Professional across languages
+
+It is built for developers who spend long hours in their editor and care about visual hierarchy.
+
+---
+
+## 🎨 Design Philosophy
+
+Neelam is built around **semantic clarity**, not just color variety.
+
+Core principles:
+
+- 🔹 Deep navy foundation for reduced glare
+- 🟢 Clear keyword distinction
+- 🔵 Crisp function highlighting
+- 🟣 Controlled accent usage
+- 🟡 Warm but refined string highlighting
+- ⚖️ Balanced contrast for long sessions
+
+The goal is readability first, personality second — without sacrificing either.
+
+---
+
+## 🖼 Preview
+
+### Irul - Default
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/demo-1.png">
 </div>
+
 <br/>
+
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/demo-2.png">
 </div>
+
 <br/>
+
+### Irul - Neelam
+
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/demo-3.png">
 </div>
+
 <br/>
+
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/shelcia/irul-theme/master/images/demo-4.png">
 </div>
-<hr/>
 
-## Installation via VS Code
+---
 
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Irul theme`
-3. Click **Install** to install it
-4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Irul theme**
+## 🧠 Language Support
 
-## Colors used in the Extension
+Irul Theme is optimized for:
 
-|                               Color                                | Usage                                           |
-| :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#FFA748](https://via.placeholder.com/10/FFA748?text=+) `#FFA748` | Keywords, constants, template literals          |
-| ![#F563DF](https://via.placeholder.com/10/F563DF?text=+) `#F563DF` | Functions, classes, object literal keys         |
-| ![#669BFF](https://via.placeholder.com/10/669BFF?text=+) `#669BFF` | Constants, operators                            |
-| ![#E2E67E](https://via.placeholder.com/10/E2E67E?text=+) `#E2E67E` | Strings, markdown headings                      |
-| ![#6CF080](https://via.placeholder.com/10/6CF080?text=+) `#6CF080` | Special keywords, classes, markdown code blocks |
-| ![#D7DCE2](https://via.placeholder.com/10/D7DCE2?text=+) `#D7DCE2` | Variables, property names, tags                 |
+- TypeScript / JavaScript
+- React / TSX
+- Python
+- Go
+- Rust
+- JSON
+- Markdown
+- CSS / SCSS
+- And other major VS Code grammars
 
-## Theming Reference
+Semantic highlighting is enabled for improved token clarity where supported.
 
-[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+---
 
-[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+## 🚀 Installation
 
-[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
+### Via VS Code
 
-Syntax & Workbench colors based on [Halcyon Theme](https://github.com/bchiang7/halcyon-vscode)
+1. Open **Extensions** (`View → Extensions`)
+2. Search for **Irul Theme**
+3. Click **Install**
+4. Open Command Palette → `Preferences: Color Theme`
+5. Select **Irul Theme – Neelam**
 
-```bash
-vsce publish patch/minor/major
+### Or via Marketplace
+
+[Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=shelcia.irul-theme)
+
+---
+
+## 🎨 Core Palette
+
+| Color     | Role                           |
+| --------- | ------------------------------ |
+| `#091922` | Background foundation          |
+| `#dbdbdb` | Primary text                   |
+| `#4da2ff` | Keywords & language constructs |
+| `#90D4FF` | Functions & calls              |
+| `#58FFE5` | Types & classes                |
+| `#e6c84a` | Strings                        |
+| `#F563DF` | Operators & decorators         |
+| `#FF5862` | Errors                         |
+
+---
+
+## ⚙️ Customization
+
+If you'd like to tweak certain token colors, VS Code allows you to override theme values via:
+
+```json
+"editor.tokenColorCustomizations": {}
 ```
+
+## Full reference:
+
+https://code.visualstudio.com/docs/getstarted/theme-color-reference
+
+https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers
+
+## 📈 Versioning
+
+```json
+vsce publish patch
+vsce publish minor
+vsce publish major
+```
+
+## 💙 Contributing
+
+Issues and suggestions are welcome.
+If you enjoy using Irul Theme, consider leaving a rating on the Marketplace — it helps a lot.
+
+## 🙏 Inspiration
+
+Workbench & syntax structure inspired by:
+
+Halcyon Theme
+
+<p align="center"> Built with <3 by Shelcia </p>

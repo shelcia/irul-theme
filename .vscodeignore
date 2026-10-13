@@ -1,4 +1,12 @@
 .vscode/**
 .vscode-test/**
+.git/**
 .gitignore
+.gitattributes
+**/.DS_Store
 vsc-extension-quickstart.md
+*.vsix
+
+# README pulls screenshots from GitHub, so only the icon needs to ship
+images/**
+!images/logo.png

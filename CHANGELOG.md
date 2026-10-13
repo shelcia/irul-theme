@@ -46,3 +46,15 @@ All notable changes to the "irul-theme" extension will be documented in this fil
 ### Patch change
 
 - Patched Neelam variant
+
+## [0.1.0]
+
+### Added
+
+- Colors for newer VS Code UI in both variants: sticky scroll, command center, inline chat / chat view, bracket pair colorization, inlay hints, ghost text, diff editor line backgrounds, multi-diff editor, quick input, keybinding labels, terminal find & command decorations, testing icons
+- Irul: secondary buttons, checkboxes, notification icons, minimap and extra git decoration colors
+- Neelam: markdown code block / blockquote colors in hovers
+
+### Changed
+
+- Package size reduced from ~3 MB to well under 100 KB by excluding screenshots (README loads them from GitHub)
